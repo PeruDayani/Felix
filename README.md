@@ -1,11 +1,14 @@
 # Felix
 A Chrome Extension to store your favorite websites and randomly suggest one when you're bored.
 
-# Chrome Store Link:
+## Chrome Store Link:
 https://chrome.google.com/webstore/detail/felix/mjmbpmohmpolkdlfmdjjhbhckplejgda
 
+### Instructions:
+1. Launch a random website using the 'Explore' button.
+2. Edit the list of saved webistes in the expanded settings tab.
 
-## Manual Setup Instructions:
+### Manual Setup Instructions:
 1. Download/clone the repository.
 2. Unzip the folder.
 3. Go to Google Chrome -> Settings -> More tools -> Extensions.
