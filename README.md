@@ -1,8 +1,11 @@
 # Felix
 A Chrome Extension to store your favorite websites and randomly suggest one when you're bored.
 
+# Chrome Store Link:
+https://chrome.google.com/webstore/detail/felix/mjmbpmohmpolkdlfmdjjhbhckplejgda
 
-## Setup Instructions:
+
+## Manual Setup Instructions:
 1. Download/clone the repository.
 2. Unzip the folder.
 3. Go to Google Chrome -> Settings -> More tools -> Extensions.
